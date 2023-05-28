@@ -59,6 +59,13 @@ To get the knowledge graph output and other output files, the following steps ar
  This graph can be queried in the GraphXR enviornment itself in languages like cypher. The nodes themselves are saved in form of .csv files as nodes and relationships and can be accessed.
 
 ## Knowledge Graph with Index
-[Screenshot](Knowledge_Graph_Output.png)
+This graph consists of :-
+	- Data of tweets (Sea blue twitter nodes)
+	- Type of tweets, i.e. Replies and 				original(Nodes in orange connected 		with grey)
+	- Sentiments of Complaint, Appreciation 		and Neutral (Connected to nodes in 		pink)
+	- Key phrases attached to respective tweet
+		(Connected to tweets in light blue)
+![image](https://github.com/Abhixsmasher/HP-SOLVE-2023/assets/71562641/a1b25cfc-395c-408b-ab64-f372e5605791)
+
 
 
