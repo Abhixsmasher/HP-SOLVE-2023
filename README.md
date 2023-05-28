@@ -60,12 +60,12 @@ To get the knowledge graph output and other output files, the following steps ar
 
 ## Knowledge Graph with Index
 This graph consists of :-
-	- Data of tweets (Sea blue twitter nodes)
-	- Type of tweets, i.e. Replies and 				original(Nodes in orange connected 		with grey)
-	- Sentiments of Complaint, Appreciation 		and Neutral (Connected to nodes in 		pink)
-	- Key phrases attached to respective tweet
-		(Connected to tweets in light blue)
-![image](https://github.com/Abhixsmasher/HP-SOLVE-2023/Knowledge_Graph_Output.png)
+
+- Data of tweets (Sea blue twitter nodes)
+- Type of tweets, i.e. Replies and original(Nodes in orange connected with grey)
+- Sentiments of Complaint, Appreciation and Neutral (Connected to nodes in pink)
+- Key phrases attached to respective tweet (Connected to tweets in light blue)
+![image]([https://github.com/Abhixsmasher/HP-SOLVE-2023/Knowledge_Graph_Output.png])
 
 
 
