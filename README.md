@@ -65,7 +65,7 @@ This graph consists of :-
 	- Sentiments of Complaint, Appreciation 		and Neutral (Connected to nodes in 		pink)
 	- Key phrases attached to respective tweet
 		(Connected to tweets in light blue)
-![image](https://github.com/Abhixsmasher/HP-SOLVE-2023/assets/71562641/a1b25cfc-395c-408b-ab64-f372e5605791)
+![image](https://github.com/Abhixsmasher/HP-SOLVE-2023/Knowledge_Graph_Output.png)
 
 
 
