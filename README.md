@@ -59,6 +59,6 @@ To get the knowledge graph output and other output files, the following steps ar
  This graph can be queried in the GraphXR enviornment itself in languages like cypher. The nodes themselves are saved in form of .csv files as nodes and relationships and can be accessed.
 
 ## Knowledge Graph with Index
-[Screenshot](Knowledge_graph_Output.png)
+[Screenshot](Knowledge_Graph_Output.png)
 
 
